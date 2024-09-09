@@ -31,6 +31,12 @@ function Sidebar() {
               Products
             </a>
           </li>
+          <li className="sidebar-list-item">
+            <a href="">
+              <BsCart3 className="sidebar-list-item" />
+              Categorie
+            </a>
+          </li>
         </ul>
       </div>
     </aside>
